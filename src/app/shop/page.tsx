@@ -9,7 +9,7 @@ const products = [
   { name: "LAND CRUISER 2024 MODAL WHITE SHAPE", price: "PKR 76,345", image: "/LAND CRUISER.jpg" },
   { name: "CHANGAN NEW MODAL 2025", price: "PKR 17,00,000", image: "/CHANGAN.jpg" },
   { name: "fortuner 2023 MODAL WHITE SHAPE", price: "PKR ~$45,600", image: "/fortuner.jpg" },
- { name: "ELANTER2025 MODAL BLACK SHAPE", price: "PKR $34,000", image: "/elanter.jpg" },
+ { name: "ELANTER2025 MODAL BLACK SHAPE", price: "PKR $34,000", image: "/elanter .jpg" },
 { name: "SONATA NEW MODAL 2025 IN BLACK SHAPE ", price: "PKR 11,545,000", image: "/sonata.jpg" },
 
 ];
