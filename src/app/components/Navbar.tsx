@@ -21,12 +21,12 @@ export default function Navbar() {
           About
         </Link>
 
-        <Link href="/contact" className="text-red-500 hover:text-red-300 transition">
-          Contact
+        <Link href="/shop" className="text-red-500 hover:text-red-300 transition">
+         shop
         </Link>
 
-        <Link href="/shop" className="text-red-500 hover:text-red-300 transition">
-          Shop
+        <Link href="/contact" className="text-red-500 hover:text-red-300 transition">
+          Contact
         </Link>
       </div>
 

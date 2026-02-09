@@ -21,13 +21,13 @@ export default function Home() {
 
       {/* Content */}
       <h1 className="text-5xl md:text-7xl font-extrabold mb-4 rgb-text text-center">
-        toyota SHOW ROOM
+        TOYOTA SHOW ROOM
       </h1>
 <Image
               src="/show room.jpg"
               alt="Showroom"
-              width={400}
-              height={400}
+              width={5000}
+              height={4000}
               
             />
       <p className="text-lg text-gray-300 mb-10">
