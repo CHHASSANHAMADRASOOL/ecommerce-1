@@ -5,7 +5,7 @@ import Image from "next/image";
 const products = [
   { name: "TOYOTA COROLLA x alis automatic 2022", price: "PKR 5,479,000", image: "/cars.jpg" },
   { name: "HONDA CIVI  automatic 2019-2022", price: "PKR 3,950,000", image: "/car.jpg" },
-  { name: "TOYOTA  REVO  DOUBLE CAP 4X4 AUTOMATIC", price: "~PKR 12,964,000", image: "/REVO.PNG" },
+  { name: "TOYOTA  REVO  DOUBLE CAP 4X4 AUTOMATIC", price: "~PKR 12,964,000", image: "/REVO.jpg" },
   { name: "LAND CRUISER 2024 MODAL WHITE SHAPE", price: "PKR 76,345", image: "/LANDCRUISER.jpg" },
   { name: "CHANGAN NEW MODAL 2025", price: "PKR 17,00,000", image: "/changan.jpg" },
   { name: "fortuner 2023 MODAL WHITE SHAPE", price: "PKR ~$45,600", image: "/fortuner.jpg" },
