@@ -23,6 +23,9 @@ export default function Home() {
       <h1 className="text-5xl md:text-7xl font-extrabold mb-4 rgb-text text-center">
         TOYOTA SHOW ROOM
       </h1>
+      <h1 className="text-5xl md:text-7xl font-extrabold mb-4 rgb-text text-center">
+        MANAGER: CH HASSAN HAMAD RASOOL
+      </h1>
 <Image
               src="/show room.jpg"
               alt="Showroom"
